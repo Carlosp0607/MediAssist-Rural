@@ -1,5 +1,7 @@
 # MediAssist Rural
 
+Enfoque: integración de IA por API y backend serverless seguro.
+
 Asistente de orientación en salud con IA, pensado para zonas de Colombia con acceso médico limitado.
 
 **Demo:** [mediassist-rural.vercel.app](https://mediassist-rural.vercel.app)
